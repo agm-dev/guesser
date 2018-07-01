@@ -1,0 +1,21 @@
+{
+  "name": "guesser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrián Gonzalo",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-stage-3": "^6.24.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "brain.js": "^1.2.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
